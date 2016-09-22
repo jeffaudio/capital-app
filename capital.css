@@ -1,0 +1,64 @@
+* {
+	font-weight: normal;
+	margin: 0;
+	padding: 0;
+}
+
+.hero {
+	background: #2B2B2B;
+	color: white;
+	padding: 20px 0;
+}
+
+.title {
+	width: 80%;
+	margin: 0 auto;
+	text-align: center;
+	font-family: "HelveticaNeue";
+}
+
+h2 {
+	font-size: 2.5em;
+}
+
+h4 {
+	font-family: "HelveticaNeue-Thin";
+	font-size: 1.25em;
+}
+
+.hero-icon {
+	height: 4em;
+	margin: 1em;
+}
+
+.section {
+	text-align: center;
+	font-family: "HelveticaNeue-Thin";
+}
+
+.feature {
+	width: 250px;
+	display: inline-block;
+	text-align: center;
+	vertical-align: top;
+	margin-bottom: 33px;
+}
+
+.feature img {
+	height: 400px;
+}
+
+.download {
+	margin-top: 1.5em;
+	text-align: center;
+}
+
+.footer {
+	padding: 1em;
+	font-size: 0.75em;
+	font-family: "HelveticaNeue-Thin";
+	background: #D8D8D8;
+}
+
+.gold { background: #D9D258; }
+.green { background: #40B158; }
