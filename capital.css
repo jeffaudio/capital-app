@@ -34,6 +34,7 @@ h4 {
 .section {
 	text-align: center;
 	font-family: "HelveticaNeue-Thin";
+	padding-bottom: 33px;
 }
 
 .feature {
